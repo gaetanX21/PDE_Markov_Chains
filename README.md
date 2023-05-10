@@ -5,4 +5,8 @@ of the form $\Delta f −\gamma f = 0$ with Dirichlet conditions. We will implem
 unit square domain with basic 0/1 boundary conditions. Nonetheless the method presented can be generalized in arbitrary dimension,
 with much more complex domains and boundary conditions.
 
-The PDF has everything you need to know. The notebook contains all the code used for the simulations.
+The PDF has everything you need to know.
+
+The notebook contains all the code used for the simulations.
+
+The [java](java) folder contains the Java code used to speed up execution.
